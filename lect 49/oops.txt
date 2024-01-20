@@ -1,0 +1,6 @@
+procedural oriented programming 
+-->program divided to the functions using it
+-->program divided into objects --> data+functions 
+-->class fundamental unit of oop
+--> class fruit to methods(colour)
+-->objects variables of data types

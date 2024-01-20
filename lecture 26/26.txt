@@ -1,0 +1,14 @@
+1. wild pointer
+where you declare the pointer but not initialize it 
+
+some random memory location 
+ undefected behaviour
+2. Null pointer 
+int *ptr=Null;
+but which is great declared but will get address later to store
+3. dangling 
+type of pointer that points to a memory location that is not 
+valid
+4. Void pointer
+cannot be dereferenced
+special pointer that can point to any datatype value

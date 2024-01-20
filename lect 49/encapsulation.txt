@@ -1,0 +1,13 @@
+Encapsulation
+1.binding of methods and variables together into single unit 
+2. also leads to data abstraction(hiding class)
+3. abstraction 
+enables us to display essential information while hiding implementation details
+4. inheritance properties of another
+singe->multiple->multilevel->hierarchical->hybrid-->diamond
+5. polymorphism --> ability of objects/methods to take different forms
+compile--> function 
+operator 
+runtime--> function overriding 
+6. friend function --< non member function which can access private member of class
+7. public private-->accessible only in own class protected parent +derived class

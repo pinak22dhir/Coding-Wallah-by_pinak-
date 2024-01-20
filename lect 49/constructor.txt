@@ -1,0 +1,5 @@
+Constructor
+1. used to initialize an object
+2. types-->default+parameter
+3. call when object is created
+4. same name as class name 
